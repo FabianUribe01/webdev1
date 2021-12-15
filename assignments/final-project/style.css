@@ -1,0 +1,9 @@
+.site-title{
+    font-size: 3rem;
+    color: blue;
+}
+img{
+    width: auto;
+    height: 350px;
+    padding: .5rem;
+}
